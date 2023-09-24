@@ -1,0 +1,7 @@
+{
+  "name": "reactmob",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
