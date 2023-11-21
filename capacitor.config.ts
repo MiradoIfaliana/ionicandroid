@@ -1,9 +1,9 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'reactmob',
-  webDir: 'dist',
+  appId: 'com.nba.com',
+  appName: 'nba',
+  webDir: 'build',
   server: {
     androidScheme: 'https'
   }
